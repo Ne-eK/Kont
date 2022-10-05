@@ -1,0 +1,15 @@
+C:\Users\Kartsan\Kontr\Prog\bin\Debug\net6.0\Prog.exe
+C:\Users\Kartsan\Kontr\Prog\bin\Debug\net6.0\Prog.deps.json
+C:\Users\Kartsan\Kontr\Prog\bin\Debug\net6.0\Prog.runtimeconfig.json
+C:\Users\Kartsan\Kontr\Prog\bin\Debug\net6.0\Prog.dll
+C:\Users\Kartsan\Kontr\Prog\bin\Debug\net6.0\Prog.pdb
+C:\Users\Kartsan\Kontr\Prog\obj\Debug\net6.0\Prog.csproj.AssemblyReference.cache
+C:\Users\Kartsan\Kontr\Prog\obj\Debug\net6.0\Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kartsan\Kontr\Prog\obj\Debug\net6.0\Prog.AssemblyInfoInputs.cache
+C:\Users\Kartsan\Kontr\Prog\obj\Debug\net6.0\Prog.AssemblyInfo.cs
+C:\Users\Kartsan\Kontr\Prog\obj\Debug\net6.0\Prog.csproj.CoreCompileInputs.cache
+C:\Users\Kartsan\Kontr\Prog\obj\Debug\net6.0\Prog.dll
+C:\Users\Kartsan\Kontr\Prog\obj\Debug\net6.0\refint\Prog.dll
+C:\Users\Kartsan\Kontr\Prog\obj\Debug\net6.0\Prog.pdb
+C:\Users\Kartsan\Kontr\Prog\obj\Debug\net6.0\Prog.genruntimeconfig.cache
+C:\Users\Kartsan\Kontr\Prog\obj\Debug\net6.0\ref\Prog.dll
